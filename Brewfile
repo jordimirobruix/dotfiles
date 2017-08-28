@@ -54,5 +54,6 @@ cask 'whatsapp'
 cask 'adobe-acrobat-reader'
 cask 'sublime-text'
 cask 'fullcontact'
+cask 'evernote'
 
 mas 'Xcode', id: 497799835 
