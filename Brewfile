@@ -53,5 +53,6 @@ cask '1password'
 cask 'whatsapp'
 cask 'adobe-acrobat-reader'
 cask 'sublime-text'
+cask 'fullcontact'
 
 mas 'Xcode', id: 497799835 
