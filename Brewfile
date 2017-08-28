@@ -51,5 +51,6 @@ cask 'tunnelbear'
 cask 'vlc'
 cask '1password'
 cask 'whatsapp'
+cask 'adobe-acrobat-reader'
 
 mas 'Xcode', id: 497799835 
