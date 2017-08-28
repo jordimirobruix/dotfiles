@@ -50,5 +50,6 @@ cask 'spotify'
 cask 'tunnelbear'
 cask 'vlc'
 cask '1password'
+cask 'whatsapp'
 
 mas 'Xcode', id: 497799835 
