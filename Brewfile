@@ -56,5 +56,6 @@ cask 'adobe-acrobat-reader'
 cask 'sublime-text'
 cask 'fullcontact'
 cask 'evernote'
+cask 'fastlane'
 
 mas 'Xcode', id: 497799835 
