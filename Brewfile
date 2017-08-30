@@ -33,6 +33,7 @@ brew 'webp'
 brew 'yarn'
 brew 'zlib'
 brew 'zsh'
+brew 'packer'
 
 cask 'alfred'
 cask 'android-file-transfer'
