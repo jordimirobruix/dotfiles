@@ -57,5 +57,7 @@ cask 'sublime-text'
 cask 'fullcontact'
 cask 'evernote'
 cask 'fastlane'
+cask 'mysqlworkbench'
+cask 'sqlworkbenchj'
 
 mas 'Xcode', id: 497799835 
