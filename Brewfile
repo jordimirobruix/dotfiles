@@ -34,6 +34,8 @@ brew 'yarn'
 brew 'zlib'
 brew 'zsh'
 brew 'packer'
+brew 'openssl'
+brew 'mysql'
 
 cask 'alfred'
 cask 'android-file-transfer'
@@ -59,5 +61,6 @@ cask 'evernote'
 cask 'fastlane'
 cask 'mysqlworkbench'
 cask 'sqlworkbenchj'
+cask 'cleanmymac'
 
 mas 'Xcode', id: 497799835 
