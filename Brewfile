@@ -62,5 +62,6 @@ cask 'fastlane'
 cask 'mysqlworkbench'
 cask 'sqlworkbenchj'
 cask 'cleanmymac'
+cask 'postman'
 
 mas 'Xcode', id: 497799835 
