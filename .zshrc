@@ -28,6 +28,7 @@ plugins=(
     sublime
     tmux
     osx
+    aws
 )
 
 source $ZSH/oh-my-zsh.sh
