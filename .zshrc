@@ -52,3 +52,9 @@ export LC_ALL=en_US.UTF-8
 #NVM
 export NVM_DIR="$HOME/.nvm"
 
+#ruby
+eval "$(rbenv init -)"
+
+#brew cask autocompletions
+fpath=(/usr/local/share/zsh-completions $fpath)
+
